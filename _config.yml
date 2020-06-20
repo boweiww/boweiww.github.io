@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Bowei Wang
+name: Nelson's Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Developer from Edmonton
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://c-ssl.duitang.com/uploads/item/201612/18/20161218191033_FNRQP.jpeg
@@ -18,12 +18,12 @@ avatar: https://c-ssl.duitang.com/uploads/item/201612/18/20161218191033_FNRQP.jp
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: boweiww@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/boweiww
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/bowei-wang-6309a2156/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://boweiww.github.io./
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
