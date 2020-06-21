@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full stack developer
 
-### More Information
+### Quote
 
-A place to include any other types of information that you'd like to include about yourself.
-
+He who knows other men is discerning;
+he who knows himself is intelligent.
+He who overcomes others is strong;
+he who overcomes himself is mighty.
+He who is satisfied with his lot is rich;
+he who goes on acting with energy has a (firm) will.
+― Lao Tzu
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[boweiww@gmail.com](mailto:boweiww@gmail.com)
